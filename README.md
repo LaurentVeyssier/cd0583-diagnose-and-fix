@@ -1,4 +1,4 @@
-# Diagonsing and Fixing Operational Problems
+# Diagnosing and Fixing Operational Problems
 
 ## How to diagnose and fix problems in a production deployed code?
 
